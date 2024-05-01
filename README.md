@@ -1,16 +1,16 @@
 # About-me
 💫 About Me:
 🔭 I’m currently working on:
-Improving cloud-based solutions and implementing microservices architecture.
+Improving problem solving skills 
 
 👯 I’m looking to collaborate on:
 Fullstack projects
 
 🌱 I’m currently learning:
-Advanced AWS Services and GraphQL.
+javascript 
 
 💬 Ask me about:
-JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+JavaScript
 
 ⚡ Fun fact:
 I love creating content.
